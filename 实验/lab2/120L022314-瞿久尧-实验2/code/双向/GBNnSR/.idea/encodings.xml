@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/file/gbn/2read.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/file/gbn/2save.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/file/gbn/h12read.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/file/gbn/h12save.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/file/gbn/h22read.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/file/gbn/h22save.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/file/sr/2read.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/file/sr/2save.txt" charset="GBK" />
+  </component>
+</project>

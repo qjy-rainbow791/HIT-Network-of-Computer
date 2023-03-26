@@ -1,0 +1,5 @@
+HTTP/1.1 302 Found
+Location: http://192.168.112.2/cache/7/04/www.gov.cn/d6c514a5b6d612a40a64d82a8be253ce/1c13e6f708f64261a739717597688844.jpg
+Content-Length: 0
+Connection: close
+
